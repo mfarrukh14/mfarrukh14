@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Little Lemon Restaurant App](https://github.com/mfarrukh14/Little-Lemon-React-Native-App.git)
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **React & Express js**
 
 - 💬 Ask me about **React , C++, C, Python, Javascript**
 
