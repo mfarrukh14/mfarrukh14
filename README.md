@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfarrukh14&label=Profile%20views&color=0e75b6&style=flat" alt="mfarrukh14" /> </p>
 
-- 🔭 I’m currently working on [Little Lemon Restaurant App](https://github.com/mfarrukh14/Little-Lemon-React-Native-App.git)
+- 🔭 I’m currently working on [an exciting fintech platform](https://github.com/mfarrukh14/Little-Lemon-React-Native-App.git)
 
-- 🌱 I’m currently learning **React & Express js**
+- 🌱 I’m currently learning **Vue & Next js**
 
 - 💬 Ask me about **React , C++, C, Python, Javascript**
 
