@@ -14,7 +14,7 @@
 ---
 
 ### About Me
-- 🔭 Currently building [**2D Game Engine**](https://github.com/mfarrukh14/9Gracity)  
+- 🔭 Currently building [**2D Game Engine**](https://github.com/mfarrukh14/9Gravity)  
 - 🌱 Diving deeper into **MLOps, Kubernetes, and Cloud-Native AI apps**  
 - 🛠️ Skilled in **DevOps (Docker, K8s, CI/CD), Full-Stack (React, Node.js, Next.js, Vue), and AI (PyTorch, TensorFlow)**  
 - 💬 Ask me about **AI, DevOps, Distributed Systems, Full-Stack Engineering**  
