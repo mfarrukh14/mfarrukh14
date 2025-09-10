@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)
 
 <h1 align="center">Hi 👋, I'm Farrukh</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
